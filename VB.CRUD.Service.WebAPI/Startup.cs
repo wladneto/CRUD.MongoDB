@@ -46,7 +46,7 @@ namespace VB.CRUD.Service.WebAPI
             container.Populate(services);
 
             container.RegisterModule(new ServiceModule(
-                Configuration.GetSection("MongoDB").GetValue<string>("ConnectionString"),
+                Configuration.GetSection("MongoDB").GetValue<string>("ConnectioString"),
                 Configuration.GetSection("MongoDB").GetValue<string>("Database")));
 
             serviceProvider = new AutofacServiceProvider(container.Build());

@@ -20,3 +20,15 @@ C:\src\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.
 C:\src\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.AssemblyInfo.cs
 C:\src\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.dll
 C:\src\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.pdb
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\bin\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.deps.json
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\bin\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.dll
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\bin\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.pdb
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\bin\Debug\netstandard2.0\VB.CRUD.Domain.dll
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\bin\Debug\netstandard2.0\VB.CRUD.Domain.pdb
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.csprojAssemblyReference.cache
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.AssemblyInfo.cs
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.csproj.CopyComplete
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.dll
+C:\Users\wladimirtn\Source\Repos\wladneto\CRUD.MongoDB\VB.CRUD.Infra.Data.MongoDB\obj\Debug\netstandard2.0\VB.CRUD.Infra.Data.MongoDB.pdb
